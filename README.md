@@ -37,7 +37,7 @@ Proyek ini dikembangkan menggunakan bahasa pemrograman **Python** dengan beberap
 
 ## Dataset
 
-Dataset yang digunakan merupakan foto pribadi yang diambil di area **Jalan Mendiro, Ngawi**, terdiri dari dua citra dengan area *overlapping* yang cukup untuk dilakukan proses penyambungan menjadi panorama.
+Dataset yang digunakan merupakan foto pribadi yang diambil di area **Jalan Universitas Darussalam Gontor, Ngawi**, terdiri dari dua citra dengan area *overlapping* yang cukup untuk dilakukan proses penyambungan menjadi panorama.
 
 ---
 
